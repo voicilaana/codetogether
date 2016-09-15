@@ -1,0 +1,20 @@
+Copenhacks {
+	
+	Ok, my name is Raz and she is Ana, we are both students in London and we are coming from Romania and we are glad to be here with us today!
+
+	So we came up with this idea when we tried to make a facebook live video, but unfortunately this feature is not available in Denmark, YET :(
+	We all love to code, to help each other and we consider that our platform is something that you might take in consideration when you want to develop algorithms. We all use stackoverflow, github and other developer platforms but we want to bring you a new kind of experience that connects you directly to the user.
+
+	We developed an live code editor that works on channels currently without any ids assigned. 
+		The way it works is:
+			You open the web link: http://copenhacks.tech
+			You join/create a room
+			And you start coding together with your peers.
+				If you are the host {
+					then you can write code and post challenges that you encounter and wait for help from people who are joining your room.
+				} else {
+					you can watch the entire code or just the documentation and the interface of the code based on the option the host choose.
+				}
+
+			In future we want to extend the app to make it live per characters as it is live per enter keypress, we want to integrate a feed with rooms and quick view over the challenges and assign ids to it.
+}
